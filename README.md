@@ -12,10 +12,10 @@ Hello World, here comes Mahanthi
 
 | S.No   | Author                   | Website                                                          | 
 | :------| :----------------------- | :--------------------------------------------------------------- | 
-| 1      | Richard Rusczyk          | [Art of Problem Solving](www.artofproblemsolving.com)           | 
-| 2      | Sal Khan                 | [khanacademy.org](www.khanacademy.org)                                              |
-| 3      | Net Math                 | netmath.illinois.edu                                             | 
-| 4      | 3 Blue One Brown         | https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw         | 
+| 1      | Richard Rusczyk          | [Art of Problem Solving](http://www.artofproblemsolving.com)     | 
+| 2      | Sal Khan                 | [khanacademy.org](http://www.khanacademy.org)                    |
+| 3      | Net Math                 | [netmath.illinois.edu](http://netmath.illinois.edu)              | 
+| 4      | 3 Blue One Brown         | [YouTube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)     | 
 | 5      | Organic Chemistry Tutor  | https://www.youtube.com/channel/UCEWpbFLzoYGPfuWUMFPSaoA         | 
 | 6      | Mike van Biezen          | http://www.ilectureonline.com/                                   |
 | 7      | Math Doctor Bob          | https://www.youtube.com/user/MathDoctorBob/featured              |
