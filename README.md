@@ -22,7 +22,7 @@ Hello World, here comes Mahanthi
 | 11     | Academic Lesson          | [YouTube](https://www.youtube.com/channel/UCwM4EI8mqvsSUR7Ou1D0qrA)  |  a 10 hour Calculus video |
 
 
-[Data Analyst Concepts Master List] (DataAnalystConceptMasterList.html) <br>
+[Data Analyst Concepts Master List] (https://mahanthibukkapatnam.github.io/DataAnalystConceptMasterList.html) <br>
 
 [Data Programming In R](https://mahanthibukkapatnam.github.io/DataProgrammingInR) / [DataCamp Accomplishments](https://mahanthibukkapatnam.github.io/DataProgrammingInR/DataCamp)
 
