@@ -8,7 +8,7 @@ Hello World, here comes Mahanthi
 
 [DataCamp Accomplishments](https://mahanthibukkapatnam.github.io/DataProgrammingInR/DataCamp)
 
-## Math Links
+## Math Video Courses 
 
 | S.No   | Author                   | Website                                                              | Comments | 
 | :------| :----------------------- | :------------------------------------------------------------------- | :-----   |
