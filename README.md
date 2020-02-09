@@ -18,4 +18,4 @@
 [Western](https://mahanthibukkapatnam.github.io/music/wviolin.html) <br>
 
 ## Standup Comedy
-[Mahanthi Standup](https://www.youtube.com/playlist?list=PL52zVFX00xnjXi291Oj9ALCHm0Dj-aCZW) <br>
+[Mahanthi Standup](https://www.youtube.com/watch?v=Ly6ncp9FqYo&list=PL52zVFX00xnjXi291Oj9ALCHm0Dj-aCZW) <br>
