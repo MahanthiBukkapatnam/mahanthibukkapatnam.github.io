@@ -19,3 +19,6 @@
 
 ## Standup Comedy
 [Mahanthi Standup](https://www.youtube.com/watch?v=Ly6ncp9FqYo&list=PL52zVFX00xnjXi291Oj9ALCHm0Dj-aCZW) <br>
+
+## Toastmasters
+[Toastmasters](https://mahanthibukkapatnam.github.io/tm/tm.html) <br>
