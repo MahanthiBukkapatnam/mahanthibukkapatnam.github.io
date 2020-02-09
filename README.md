@@ -7,7 +7,7 @@
 [Active Recall](https://mahanthibukkapatnam.github.io/education/reading/ac.html) <br>
 
 ## Math and Computer Science
-[Math](https://mahanthibukkapatnam.github.io/education/math.html) <br>
+[Math Video Courses](https://mahanthibukkapatnam.github.io/education/math.html) <br>
 [Data Analyst Concepts Master List](https://mahanthibukkapatnam.github.io/education/DataAnalystConceptMasterList.html) <br>
 [Data Programming In R](https://mahanthibukkapatnam.github.io/DataProgrammingInR) / [DataCamp Accomplishments](https://mahanthibukkapatnam.github.io/DataProgrammingInR/DataCamp)
 
