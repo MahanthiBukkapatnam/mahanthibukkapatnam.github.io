@@ -1,6 +1,6 @@
 [MBA](https://mahanthibukkapatnam.github.io/mba) / 
 [MS-BA](https://mahanthibukkapatnam.github.io/education/msba.html)<br>
-<img src="pictures/BukkapatnamMahanthi.jpg" alt="Mahanthi" height="42" width="42">
+<img src="https://mahanthibukkapatnam.github.io/pictures/BukkapatnamMahanthi.jpg" alt="Mahanthi" height="42" width="42">
 
 ## Reading
 [Reading](https://mahanthibukkapatnam.github.io/education/reading/howtoread.html) <br>
