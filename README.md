@@ -1,6 +1,7 @@
-[MBA](https://mahanthibukkapatnam.github.io/mba)<br>
+[MBA](https://mahanthibukkapatnam.github.io/mba) / 
 [MS-BA](https://mahanthibukkapatnam.github.io/education/msba.html)<br>
 
+## Reading
 [Reading](https://mahanthibukkapatnam.github.io/education/reading/howtoread.html) <br>
 [Cornell Note Taking System](https://mahanthibukkapatnam.github.io/education/reading/cnts.html) <br>
 [Active Recall](https://mahanthibukkapatnam.github.io/education/reading/ac.html) <br>
