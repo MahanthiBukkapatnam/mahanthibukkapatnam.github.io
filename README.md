@@ -4,6 +4,8 @@ Hello World, here comes Mahanthi
 
 [MBA](https://mahanthibukkapatnam.github.io/mba)
 
+[Cornell Note Taking System](https://mahanthibukkapatnam.github.io/cnts.html) <br>
+[Active Recall](https://mahanthibukkapatnam.github.io/ac.html) <br>
 
 ## Math Video Courses 
 
