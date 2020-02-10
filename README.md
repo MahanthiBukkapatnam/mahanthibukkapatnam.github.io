@@ -1,13 +1,14 @@
+<img src="https://mahanthibukkapatnam.github.io/pictures/BukkapatnamMahanthi.jpg" alt="Mahanthi" height="55" width="42">
+
 [MBA](https://mahanthibukkapatnam.github.io/mba) / 
 [MS-BA](https://mahanthibukkapatnam.github.io/education/msba.html)<br>
-<img src="https://mahanthibukkapatnam.github.io/pictures/BukkapatnamMahanthi.jpg" alt="Mahanthi" height="55" width="42">
 
 ## Reading
 [Reading](https://mahanthibukkapatnam.github.io/education/reading/howtoread.html) <br>
 [Cornell Note Taking System](https://mahanthibukkapatnam.github.io/education/reading/cnts.html) <br>
 [Active Recall](https://mahanthibukkapatnam.github.io/education/reading/ac.html) <br>
-[Pomodoro Technique](https://francescocirillo.com/pages/pomodoro-technique)
-[Bullet Journal](https://bulletjournal.com/)
+[Pomodoro Technique](https://francescocirillo.com/pages/pomodoro-technique) <br>
+[Bullet Journal](https://bulletjournal.com/) <br>
 
 ## Math and Computer Science
 [Math Video Courses](https://mahanthibukkapatnam.github.io/education/math.html) <br>
