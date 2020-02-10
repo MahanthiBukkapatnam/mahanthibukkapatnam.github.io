@@ -1,4 +1,4 @@
-<img src="https://mahanthibukkapatnam.github.io/pictures/BukkapatnamMahanthi.jpg" alt="Mahanthi" height="55" width="42">
+<img src="https://mahanthibukkapatnam.github.io/pictures/BukkapatnamMahanthi.jpg" alt="Mahanthi" height="57" width="42">
 
 [MBA](https://mahanthibukkapatnam.github.io/mba) / 
 [MS-BA](https://mahanthibukkapatnam.github.io/education/msba.html)<br>
