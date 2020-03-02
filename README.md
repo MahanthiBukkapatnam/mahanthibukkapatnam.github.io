@@ -1,5 +1,10 @@
 <img src="https://mahanthibukkapatnam.github.io/pictures/BukkapatnamMahanthi.jpg" alt="Mahanthi" height="57" width="42">
 
+## Life Purpose
+[My Life Purpose ](https://mahanthibukkapatnam.github.io/lifepurpose/MahanthiBukkapatnam.pdf) <br>
+[Purpose Statement Exercises ](https://mahanthibukkapatnam.github.io/lifepurpose/PurposeStatementExercises.doc) Prepared by Ginny Wilson Peters, Integrity Integrated Inc - gwpeters at integrityintegrated dot com <br>
+
+
 [MBA](https://mahanthibukkapatnam.github.io/mba) / 
 [MS-BA](https://mahanthibukkapatnam.github.io/education/msba.html)<br>
 
